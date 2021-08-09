@@ -1,0 +1,8 @@
+{
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "html.format.extraLiners": "",
+   "editor.formatOnSave": true,
+   "html.format.contentUnformatted": "",
+   "html.format.indentHandlebars": true,
+   "html.format.preserveNewLines": false
+}
